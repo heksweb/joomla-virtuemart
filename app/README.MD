@@ -1,0 +1,1 @@
+Installation package "Full installer includes joomla 3.7.5 with VirtueMart 3.2.4"
